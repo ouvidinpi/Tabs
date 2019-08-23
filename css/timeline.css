@@ -4,18 +4,11 @@
   box-sizing: border-box;
 }
 
-html {
-  background-color: black;
-}
-
-body {
+table {
   font-size: 1em;
   font-family: "Raleway";
-  color: #fff;
+  background-color: black;
   padding-bottom: 10px;
-}
-
-table {
   margin-bottom: 35px;
   width: 100%;
 }

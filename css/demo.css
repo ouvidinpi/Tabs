@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Neue Helvetica,sans-serif:400,500,700);
+@import url(http://fonts.googleapis.com/css?family=Neue Helvetica);
 
 @font-face {
 	font-weight: normal;
@@ -16,15 +16,15 @@
 .clearfix:after { clear: both; }
 
 body {
-	background: #e7ecea;
-	color: #74777b;
+	background: black;
+	color: white;
 	font-weight: 400;
 	font-size: 1em;
-	font-family: 'Raleway', Arial, sans-serif;
+	font-family: 'Neue Helvetica';
 }
 
 a {
-	color: #2CC185;
+	color: #28dcff;
 	text-decoration: none;
 	outline: none;
 }

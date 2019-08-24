@@ -69,7 +69,7 @@ a:focus {
 	font-size: 0.85em;
 }
 .box {
-	padding: 4.5em 0;
+	padding: 0;
 	display: -webkit-flex;
 	display: -ms-flexbox;
 	display: flex;
@@ -94,7 +94,7 @@ a:focus {
 .codrops-header h1 span {
 	display: block;
 	font-weight: 100;
-	font-size: 30%;
+	font-size: 37.5%;
 	color: #fff;
 	letter-spacing: 0;
 	padding: 0.5em 0 1em 0;

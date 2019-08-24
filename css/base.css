@@ -92,9 +92,10 @@ a:focus {
 	margin-bottom: 0;
 }
 .codrops-header h1 span {
-	font-weight: 100;
 	display: block;
+	font-weight: 100;
 	font-size: 40%;
+	color: #fff;
 	letter-spacing: 0;
 	padding: 0.5em 0 1em 0;
 	color: #00aacc;

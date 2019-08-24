@@ -80,6 +80,15 @@ a:focus {
 	justify-content: center;
 }
 
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: right;
+}
+
 /* Header */
 .codrops-header {
 	padding: 3em 3em 4em;

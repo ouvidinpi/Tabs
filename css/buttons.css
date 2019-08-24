@@ -47,7 +47,7 @@
 }
 .bg-3 .button {
 	color: #fff;
-	border-color: #00aacc;
+	border-color: #308fd9;
 }
 
 /* Sizes */
@@ -123,7 +123,7 @@
 	display: block;
 }
 .button--winona.button--inverted {
-	color: #00aacc;
+	color: #308fd9;
 }
 .button--winona.button--inverted:after {
 	color: #fff;

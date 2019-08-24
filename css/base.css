@@ -22,7 +22,7 @@
 }
 body {
 	background: #37474f;
-	color: #28dcff;
+	color: #00aacc;
 	font-weight: 400;
 	font-size: 1em;
 	font-family: 'Roboto Condensed';
@@ -35,13 +35,13 @@ body {
 	display: none;
 }
 a {
-	color: #28dcff;
+	color: #00aacc;
 	text-decoration: none;
 	outline: none;
 }
 a:hover,
 a:focus {
-	color: #3f51b5;
+	color: #00aacc;
 }
 .hidden {
 	position: absolute;
@@ -97,7 +97,7 @@ a:focus {
 	font-size: 40%;
 	letter-spacing: 0;
 	padding: 0.5em 0 1em 0;
-	color: #A8B3B8;
+	color: #00aacc;
 }
 
 /* Top Navigation Style */

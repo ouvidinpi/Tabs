@@ -103,7 +103,7 @@ a:focus {
 }
 .codrops-header h1 span {
 	display: block;
-	font-weight: bold;
+	font-weight: 300;
 	font-size: 35%;
 	color: #fff;
 	letter-spacing: 0;

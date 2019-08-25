@@ -102,16 +102,16 @@ a:focus {
 	letter-spacing: -1px;
 }
 .codrops-header h1 {
-	font-weight: 400;
+	font-weight: 600;
 	font-size: 6em;
 	line-height: 1;
 	margin-bottom: 0;
-	padding: 0px 40px 0px 40px;
+	padding: 0px 50px 0px 50px;
 }
 .codrops-header h1 span {
 	display: block;
 	font-weight: 300;
-	font-size: 30%;
+	font-size: 27.5%;
 	text-transform: uppercase;
 	color: #fff;
 	letter-spacing: 0;

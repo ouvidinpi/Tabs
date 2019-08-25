@@ -64,7 +64,7 @@ a:focus {
 	z-index: 1;
 	max-width: 1000px;
 	margin: 0 auto;
-	padding-bottom: 64px;
+	padding-bottom: 3em;
 }
 .content h2 {
 	margin: 0 0 2em;
@@ -98,7 +98,7 @@ a:focus {
 
 /* Header */
 .codrops-header {
-	padding: 3em 3em 4em;
+	padding: 3em;
 	letter-spacing: -1px;
 }
 .codrops-header h1 {

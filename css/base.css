@@ -59,6 +59,7 @@ a:focus {
 	z-index: 1;
 	max-width: 1000px;
 	margin: 0 auto;
+	padding-bottom: 64px;
 }
 .content h2 {
 	margin: 0 0 2em;

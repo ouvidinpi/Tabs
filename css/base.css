@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto Condensed:200,300,400,500,600);
+@import url(http://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600);
 @font-face {
 	font-weight: normal;
 	font-style: normal;
@@ -25,7 +25,7 @@ body {
 	color: #308fd9;
 	font-weight: 400;
 	font-size: 1em;
-	font-family: 'Roboto Condensed';
+	font-family: Oswald;
 }
 .support {
 	font-weight: bold;
@@ -81,7 +81,7 @@ a:focus {
 }
 
 .footer {
-   position: fixed;
+   position: relative;
    left: 0;
    bottom: 0;
    padding: 2em 4em;

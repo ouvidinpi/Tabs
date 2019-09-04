@@ -30,7 +30,7 @@ body {
 	color: #308fd9;
 	font-weight: 400;
 	font-size: 1em;
-	font-family: 'Arial';
+	font-family: 'Roboto Condensed';
 }
 .support {
 	font-weight: bold;
@@ -117,7 +117,7 @@ a:focus {
 	color: #fff;
 	letter-spacing: 0;
 	padding: 0.5em 0 1em 0;
-	font-family: 'Arial';
+	font-family: 'Roboto Condensed';
 }
 
 /* Top Navigation Style */

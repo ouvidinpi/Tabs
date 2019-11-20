@@ -101,6 +101,7 @@ a:focus {
 .codrops-header {
 	padding: 3em;
 	letter-spacing: -1px;
+	width: 100%;
 }
 .codrops-header h1 {
 	font-weight: 600;
